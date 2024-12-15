@@ -61,3 +61,4 @@ Contributions are welcome! Feel free to fork this repository and submit pull req
 ## Disclaimer
 
 These scripts are intended for educational purposes. Ensure you have permission to scrape websites, as some may restrict automated access.
+![Alt](https://repobeats.axiom.co/api/embed/eabe6508a91fa38b4ace0060919094363916f544.svg "Repobeats analytics image")
